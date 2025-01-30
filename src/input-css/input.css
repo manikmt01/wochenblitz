@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+@theme {
+  --font-Roboto: 'Roboto', serif;
+  --shadow-4xl: 0 5px 30px rgba(255, 111, 99, 0.4);
+}
